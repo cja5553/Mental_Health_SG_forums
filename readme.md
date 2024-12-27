@@ -16,11 +16,11 @@
 
 # Table of Contents  
 
-> 1_data_collection.ipynb
-> 2_COT_classifier.ipynb
-> 3_BERTopic.ipynb
-> 4_temporal_visualization.ipynb
-
-> readme.md
+> 1_data_collection.ipynb. 
+> 2_COT_classifier.ipynb. 
+> 3_BERTopic.ipynb. 
+> 4_temporal_visualization.ipynb. 
+  
+> readme.md. 
 
 The `ipynb` are Python Jupyter Notebook codes. 
