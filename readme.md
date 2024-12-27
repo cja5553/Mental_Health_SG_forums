@@ -21,10 +21,10 @@
 
 # Table of Contents  
 
-> 1_data_collection.ipynb. 
-> 2_COT_classifier.ipynb. 
-> 3_BERTopic.ipynb. 
-> 4_temporal_visualization.ipynb. 
+> 1_data_collection.ipynb  
+> 2_COT_classifier.ipynb   
+> 3_BERTopic.ipynb   
+> 4_temporal_visualization.ipynb   
   
 > readme.md. 
 
