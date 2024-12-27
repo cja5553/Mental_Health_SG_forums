@@ -1,7 +1,7 @@
 
 # About
 
-- This study aims to understand prominent topics of mental health in Singapore from Reddit Forums.
+- This study aims to understand prominent topics surrounding mental health in Singapore from Reddit Forums.
 
 # Data
 - Data was stemmed from 4 reddit forums: 
