@@ -11,8 +11,13 @@
     - `r/SingaporeR`
 
 - Dates from June 2005 to December 2022
-- N=393,170 original posts --> n=2958 posts identified to be relevant to mental health
+- N=393,170 original posts
+- n=2958 posts identified to be relevant to mental health
 
+
+# Methods
+1. **Chain-of-thought** prompting was used to identify Reddit posts related to mental health
+2. **BERTopic with MMR-based fine-tuning** was used to key topics related to mental health. 
 
 # Table of Contents  
 
