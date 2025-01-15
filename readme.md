@@ -10,9 +10,9 @@
     - `r/singaporeraw`
     - `r/SingaporeR`
 
-- Dates from June 2005 to December 2022
-- N=393,170 original posts
-- n=2958 posts identified to be relevant to mental health
+- Dates from Jan 2015 to December 2022
+- N=379,787 original posts
+- n=2783 posts identified to be relevant to mental health
 
 
 # Methods
@@ -21,11 +21,20 @@
 
 # Table of Contents  
 
-> 1_data_collection.ipynb  
-> 2_COT_classifier.ipynb   
-> 3_BERTopic.ipynb   
-> 4_temporal_visualization.ipynb   
-  
-> readme.md. 
+> Codes
+>> 1_data_collection.ipynb  
+>> 2_COT_classifier.ipynb   
+>> 3_BERTopic.ipynb   
+>> 4_temporal_visualization.ipynb   
+>> 5_LIWC_analysis.ipynb   
 
-The `ipynb` are Python Jupyter Notebook codes. 
+
+> Plots  
+>> LIWC  
+>> plot_categories.jpg  
+>> plot_topics.jpg  
+
+> readme.md  
+
+- `Codes` contains all the codes and should be self-explainatory.  
+- `LIWC` in the plots are the plots for the `LIWC` analysis, `plot_topics.jpg` are the dynamic / temporal topic modeling plots and `plot_categories.jpg` is the same but grouped to categories. 
