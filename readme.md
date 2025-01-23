@@ -14,6 +14,8 @@
 - N=379,787 original posts
 - n=2783 posts identified to be relevant to mental health
 
+Data is publicly available via the Open Science Framework at https://osf.io/xbmn5/
+
 
 # Methods
 1. **Chain-of-thought** prompting was used to identify Reddit posts related to mental health
