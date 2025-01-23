@@ -19,7 +19,8 @@ Data is publicly available via the Open Science Framework at https://osf.io/xbmn
 
 # Methods
 1. **Chain-of-thought** prompting was used to identify Reddit posts related to mental health
-2. **BERTopic with MMR-based fine-tuning** was used to key topics related to mental health. 
+2. **BERTopic with MMR-based fine-tuning** was used to key topics related to mental health.
+3. **Linguistic Inquiry and Word Count (LIWC)** generated psychological insights among the posts for each identified topic.  
 
 # Table of Contents  
 
