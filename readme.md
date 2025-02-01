@@ -1,6 +1,8 @@
 
 # About
 
+Codes for "Trends in Factors Surrounding Mental Health in Singapore: An Observational Text Mining Study from Reddit Forums"
+
 - This study aims to understand prominent topics surrounding mental health in Singapore from Reddit Forums.
 
 # Data
